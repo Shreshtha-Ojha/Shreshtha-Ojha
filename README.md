@@ -44,6 +44,8 @@ Org: [github.com/SGPolaris](https://github.com/SGPolaris)
 
 I build and maintain MCP (Model Context Protocol) server integrations for [Luminary Lane](https://github.com/luminarylane), an AI marketing platform — connecting Claude to marketing, analytics, and social platforms.
 
+I also scaffolded and built the initial Twitter/X Agent microservice (OAuth 2.0 Twitter API v2 client, Docker setup) for Luminary Lane's core AI CMO product, as part of an ongoing Twitter/X channel build-out.
+
 | Repo | Description |
 |---|---|
 | [`wordpress-mcp-server`](https://github.com/luminarylane/wordpress-mcp-server) | MCP server for WordPress |

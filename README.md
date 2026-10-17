@@ -72,7 +72,7 @@ I also scaffolded and built the initial Twitter/X Agent microservice (OAuth 2.0 
 
 ## 📈 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shreshtha-Ojha&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shreshtha-Ojha&theme=tokyo-night)](https://github.com/Shreshtha-Ojha)
 
 
 <p align="left"><em>Reach me at <a href="mailto:ojhashreshtha@gmail.com">ojhashreshtha@gmail.com</a></em></p>

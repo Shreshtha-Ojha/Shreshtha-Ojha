@@ -62,25 +62,17 @@ I also scaffolded and built the initial Twitter/X Agent microservice (OAuth 2.0 
 
 ---
 
-## Flagship Project — SkillMine
+## 📊 GitHub Analytics
 
-**SkillMine** — a technical interview preparation platform combining company-wise DSA question banks (450+ companies), AI-driven mock interviews, learning roadmaps, certifications, and placement/compensation data.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shreshtha-Ojha&show_icons=true&theme=tokyonight&hide_border=true)
 
-Built with Next.js 14, TypeScript, MongoDB, Tailwind CSS, and NextAuth; tested with 46 Cypress E2E cases.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreshtha-Ojha&layout=compact&theme=tokyonight&hide_border=true)
 
-[Live Demo](https://skillminelearn.vercel.app) · [Repository](https://github.com/Shreshtha-Ojha/SkillMine)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shreshtha-Ojha&theme=tokyonight&hide_border=true)
 
----
+## 📈 Contribution Graph
 
-## Other Projects
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shreshtha-Ojha&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
 
-| Project | Description |
-|---|---|
-| [Sign-Language-Recognition](https://github.com/Shreshtha-Ojha/Sign-Language-Recognition) | Sign language recognition using CNN, ANN, and MediaPipe hand-landmark detection, including a continuous gesture-recognition pipeline |
-| [Neural Network Training Engine](https://github.com/Shreshtha-Ojha/Neural_Network_Project) | A neural network built from scratch with only NumPy/Matplotlib, trained on the Breast Cancer Wisconsin dataset with automatic activation/optimizer selection |
-| [Green-Logistics](https://github.com/Shreshtha-Ojha/Green-Logistics) | Streamlit app predicting CO₂ emissions and delivery costs for shipments, including unseen routes |
-| [URL-Shortner](https://github.com/Shreshtha-Ojha/URL-Shortner) | Full-stack URL shortener with click tracking and redirection |
-
----
 
 <p align="left"><em>Reach me at <a href="mailto:ojhashreshtha@gmail.com">ojhashreshtha@gmail.com</a></em></p>

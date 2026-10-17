@@ -70,9 +70,11 @@ I also scaffolded and built the initial Twitter/X Agent microservice (OAuth 2.0 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shreshtha-Ojha&theme=tokyonight&hide_border=true)
 
+
 ## 📈 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shreshtha-Ojha&theme=tokyo-night)](https://github.com/Shreshtha-Ojha)
+[![Shreshtha's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shreshtha-Ojha&theme=tokyo-night)](https://github.com/Shreshtha-Ojha)
+
 
 
 <p align="left"><em>Reach me at <a href="mailto:ojhashreshtha@gmail.com">ojhashreshtha@gmail.com</a></em></p>
